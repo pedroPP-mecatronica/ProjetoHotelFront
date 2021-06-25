@@ -59,9 +59,9 @@ namespace ProjetodeHotel
             this.btnLogin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.btnLogin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLogin.Location = new System.Drawing.Point(15, 255);
+            this.btnLogin.Location = new System.Drawing.Point(15, 257);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(291, 42);
+            this.btnLogin.Size = new System.Drawing.Size(291, 40);
             this.btnLogin.TabIndex = 2;
             this.btnLogin.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnLogin.UseVisualStyleBackColor = false;

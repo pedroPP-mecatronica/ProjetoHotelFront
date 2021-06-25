@@ -37,7 +37,14 @@ namespace ProjetodeHotel
             if (txtUsuario.Text == "" )
             {
                 MessageBox.Show("Insira os dados de login");
+                txtUsuario.Focus();
+                return;
             }
+            if(txtSenha.Text =="")
+            {
+                MessageBox.Show("insira a senha");
+            }
+            //codigo para Login
         }
     }
 }
